@@ -1,0 +1,20 @@
+{
+  "name": "reseauxfm",
+  "version": "1.0.0",
+  "description": "Un réseau social passif de partage de virtualisation de radio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon",
+    "github": "git add . && git commit -m \":sparkles: Mise à jour :sparkles:\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapsTimeOFF/ReseauxFM.git"
+  },
+  "author": "Natourou & LapsTime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LapsTimeOFF/ReseauxFM/issues"
+  },
+  "homepage": "https://github.com/LapsTimeOFF/ReseauxFM#readme"
+}
