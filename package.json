@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/LapsTimeOFF/ReseauxFM/issues"
   },
-  "homepage": "https://github.com/LapsTimeOFF/ReseauxFM#readme"
+  "homepage": "https://github.com/LapsTimeOFF/ReseauxFM#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-google": "^0.14.0"
+  }
 }
